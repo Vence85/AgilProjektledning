@@ -32,7 +32,15 @@ Vi utvecklar en innovativ AI-driven app som hjälper dig att hålla koll på dit
 
 # Länkar
   [🔗 Besök vår moodboard figma](https://www.figma.com/board/SlL4SBqAyC1dtHEfaol4DL/Welcome-to-FigJam?node-id=0-1&p=f&t=kXwrT8QwHOp2AHuS-0)
+  _Här samlar vi idéer och inspiration för projektet_
   
+
   [🔗 Besök vårat githubprojekt](https://github.com/users/Vence85/projects/1)
+   _Här är vårat projektplaneringsverktyg_
+ 
   
   [🔗 Besök vår prototyp i figma](https://www.figma.com/proto/eyD0PqZbFA0ZFb6DSJOM4h/PlanEat_Prototype?node-id=1-1188&starting-point-node-id=1%3A1188)
+   _Interaktiv prototyp av appen_
+
+  
+  
