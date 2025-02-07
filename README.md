@@ -43,4 +43,8 @@ Vi utvecklar en innovativ AI-driven app som hjälper dig att hålla koll på dit
    _Interaktiv prototyp av appen_
 
   
-  
+ [🔗 Besök vår power point](https://thorengruppen-my.sharepoint.com/:p:/g/personal/susanna_rokka_student_nbi-handelsakademin_se/EREF5mCp6-9ItO65EeqGMGgBV8kRL2hLckjFCJ_WwGpjug?e=pL1Fge)
+   _Här finns våran power point_
+
+
+ 
